@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Charlotte-Concord-Gastonia Metro Area, NC-SC, US
 
-> Free BeamStation sample export with 12 rows and masked direct-contact fields.
+> Free BeamStation sample export with 20 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `526977` |
 | Location | Charlotte-Concord-Gastonia, NC-SC |
 | Category | Restaurants |
-| Full dataset size | 127 records |
-| Free sample size | 12 records (9.45%) |
-| Last export | 2026-04-22T12:23:15.557316+00:00 |
+| Full dataset size | 203 records |
+| Free sample size | 20 records (9.85%) |
+| Last export | 2026-04-29T13:19:18.462728+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-charlotte-concord-gastonia-metro-area-nc-sc-us-sample-526977/releases/download/sample-latest/beamstation_526977_restaurants-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
