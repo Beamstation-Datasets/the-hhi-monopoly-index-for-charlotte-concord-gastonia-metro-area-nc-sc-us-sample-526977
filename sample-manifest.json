@@ -1,12 +1,12 @@
 {
-  "export_job_id": "72af5f51-3254-4432-a83f-9c96ead28f9c",
+  "export_job_id": "1f2b40a2-5ee7-4dae-a0a2-84e87ff4ff26",
   "id_short": 526977,
-  "published_at": "2026-04-22T19:52:03Z",
+  "published_at": "2026-04-30T07:34:25Z",
   "repo_name": "the-hhi-monopoly-index-for-charlotte-concord-gastonia-metro-area-nc-sc-us-sample-526977",
   "sample_asset_name": "beamstation_526977_restaurants-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/526977/beamstation_526977_restaurants-us-charlotteconcordgastoniancsc_SAMPLE_DIST.csv",
-  "sample_records": 12,
-  "sample_sha256": "90cda6511807bace3c7ec8cc908658809089512d92fbbc88ade0f427fee677c7",
-  "sample_size_bytes": 61095,
-  "total_records": 127
+  "sample_records": 20,
+  "sample_sha256": "6324403f2c8e0b415b24fe0f231b568629298adfa2a822dd76b64f15914bc731",
+  "sample_size_bytes": 87461,
+  "total_records": 203
 }
